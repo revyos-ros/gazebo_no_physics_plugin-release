@@ -1,8 +1,0 @@
-ros-humble-gazebo-no-physics-plugin (0.1.1-1bullseye) bullseye; urgency=high
-
-  * OSS release
-  * Contributors: Beau Colley-Allerton, Iñigo Moreno, Jason Cochrane, Leandro Ruiz, Leandro Ruiz-Lozano, Nathan Hui, RoBeau, leandroruiz
-
- -- Boeing <Jason.Cochrane@boeing.com>  Wed, 21 Feb 2024 08:00:00 -0000
-
-
